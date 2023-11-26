@@ -29,8 +29,8 @@ La API cuenta con 7 métodos que ayudan en el manejo de datos y el conteo de per
 
 ## Estructura del Proyecto
 Jornada de almuerzo gratis/
-│
 
+│
 ├── pycache/
 
 ├── JornadaAlmuerzo-env/
