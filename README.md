@@ -30,19 +30,17 @@ La API cuenta con 7 métodos que ayudan en el manejo de datos y el conteo de per
 ## Estructura del Proyecto
 
 Jornada de almuerzo gratis/
-│
-├── pycache/
-├── JornadaAlmuerzo-env/
-├── Models/
-│ ├── pycache/
-│ └── Jornada.py
-│
-├── Routers/
-│ ├── pycache/
-│ ├── init.py
-│ └── JornadaRouter.py
-├── Main/
-
+|-- pycache/
+|-- JornadaAlmuerzo-env/
+|-- Models/
+| |-- pycache/
+| |-- Jornada.py
+|
+|-- Routers/
+| |-- pycache/
+| |-- init.py
+| |-- JornadaRouter.py
+|-- Main/
 
 ## URLs de Acciones
 
