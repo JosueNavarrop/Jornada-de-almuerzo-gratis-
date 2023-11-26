@@ -29,7 +29,7 @@ La API cuenta con 7 métodos que ayudan en el manejo de datos y el conteo de per
 
 ## Estructura del Proyecto
 
-![Imagen de estructura de proyectos](https://photos.app.goo.gl/W5BmQM11M649Mc8X7)
+![Imagen de estructura de proyectos]([https://photos.app.goo.gl/W5BmQM11M649Mc8X7](https://photos.google.com/photo/AF1QipN72rqpsk2ACU1BXbTsgwLiKbY5ZxIgtAwimpHg))
 
 ## URLs de Acciones
 
