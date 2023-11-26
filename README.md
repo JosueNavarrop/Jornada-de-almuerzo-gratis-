@@ -33,11 +33,11 @@ Jornada de almuerzo gratis/
 ├── pycache/
 ├── JornadaAlmuerzo-env/
 ├── Models/
-│ ├── pycache
+│ ├── pycache/
 │ └── Jornada.py
 │
 ├── Routers/
-│ ├── pycache
+│ ├── pycache/
 │ ├── init.py
 │ └── JornadaRouter.py
 ├── Main/
